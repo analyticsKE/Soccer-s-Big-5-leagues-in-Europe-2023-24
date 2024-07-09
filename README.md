@@ -4,7 +4,7 @@
 
 This Streamlit dashboard provides a comprehensive analysis of the top 5 European football leagues for the 2023/24 season. It offers insights into team performances, top scorers, and in-depth statistics across the Premier League, La Liga, Bundesliga, Serie A, and Ligue 1.
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Dashboard+Preview)
+![Dashboard Preview](/image.png)
 
 ## 🌟 Features
 
